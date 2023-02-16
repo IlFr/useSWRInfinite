@@ -1,0 +1,2 @@
+# useSWRInfinite
+Created with CodeSandbox
